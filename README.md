@@ -71,6 +71,19 @@ Welcome to my world. Let the debugging... I mean, *adventure* begin. 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h3>
+  <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode Icon" style="height: 1em; vertical-align: middle; margin-right: 8px;">
+  Leetcode Stats
+</h3>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/18saranshtyagi2004?theme=dark" alt="LeetCode Stats" style="margin-right: 10px;">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=18saranshtyagi2004&theme=black" alt="LeetCode Badges">
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🔗 Connect With Me <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 
 <div align="left">
