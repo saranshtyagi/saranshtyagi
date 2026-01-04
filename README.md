@@ -66,7 +66,7 @@ Welcome to my world. Let the debugging... I mean, *adventure* begin. 🚀
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saranshtyagi&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshtyagi&layout=compact&langs_count=6&theme=dracula" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=saranshtyagi&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=saranshtyagi&theme=dark" height="150"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
