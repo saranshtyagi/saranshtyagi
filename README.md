@@ -64,7 +64,7 @@ Welcome to my world. Let the debugging... I mean, *adventure* begin. 🚀
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/?username=saranshtyagi" height="150"/>
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/?username=saranshtyagi" height="150"/> -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saranshtyagi" height="150"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=saranshtyagi" height="150"/>
 </div>
