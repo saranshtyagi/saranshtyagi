@@ -6,11 +6,11 @@ Welcome to my GitHub — a space where problem-solving beats buzzwords and logic
 
 I’m Saransh Tyagi, a final-year B.Tech Computer Science student with a strong focus on:
 
-C++ for performance-oriented problem solving
+- C++ for performance-oriented problem solving
 
-Data Structures & Algorithms for core CS mastery
+- Data Structures & Algorithms for core CS mastery
 
-SQL for data modeling, querying, and optimization
+- SQL for data modeling, querying, and optimization
 
 While I’ve explored full-stack development, my current priority is building deep fundamentals that matter in SDE roles, product companies, and system-level interviews.
 
@@ -21,6 +21,7 @@ This GitHub is my problem-solving journal:
 ⚙️ Every C++ solution → efficiency, STL mastery, clean logic
 
 🗄️ Every SQL query → real-world data reasoning
+
 So as you browse this space, fellow explorer, I invite you to read between the lines of code. Let’s share ideas, break things (intentionally), and co-create a future that’s as elegant as a well-structured API and as limitless as the cloud above.
 
 Welcome to my world. Let the debugging... I mean, *adventure* begin. 🚀
