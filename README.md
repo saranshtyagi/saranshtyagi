@@ -1,19 +1,26 @@
-<h1 align="left">Hi, I’m Saransh — MERN-ing My Way Through the Matrix 🧠💡</h1>
+<h1 align="left">Hi, I’m Saransh Tyagi — C++ | DSA | SQL 🧠💡</h1>
 
 ### 👨‍💻 About Me
 
-Hello, World! 🌍  
-Welcome, digital wanderer, to the GitHub realm of Saransh Tyagi, a curious soul journeying through the ever-expanding universe of code, cloud, and creation.
+Welcome to my GitHub — a space where problem-solving beats buzzwords and logic comes before libraries.
 
-I am a final-year B.Tech Computer Science student, navigating the thrilling storm of semicolons and servers with unshakable curiosity and a keyboard as my compass.
+I’m Saransh Tyagi, a final-year B.Tech Computer Science student with a strong focus on:
 
-While academia may provide the map, it is self-learning and hands-on hustle that fuel my voyage.
+C++ for performance-oriented problem solving
 
-My GitHub is more than just code — it’s my **digital diary**:  
-📁 Each repo, a quest embarked.  
-🧠 Each commit, a step forward in understanding.  
-💥 Each bug squashed, a battle won in silence.
+Data Structures & Algorithms for core CS mastery
 
+SQL for data modeling, querying, and optimization
+
+While I’ve explored full-stack development, my current priority is building deep fundamentals that matter in SDE roles, product companies, and system-level interviews.
+
+This GitHub is my problem-solving journal:
+
+🧩 Every DSA repo → structured thinking & edge-case handling
+
+⚙️ Every C++ solution → efficiency, STL mastery, clean logic
+
+🗄️ Every SQL query → real-world data reasoning
 So as you browse this space, fellow explorer, I invite you to read between the lines of code. Let’s share ideas, break things (intentionally), and co-create a future that’s as elegant as a well-structured API and as limitless as the cloud above.
 
 Welcome to my world. Let the debugging... I mean, *adventure* begin. 🚀
@@ -46,13 +53,9 @@ Welcome to my world. Let the debugging... I mean, *adventure* begin. 🚀
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
